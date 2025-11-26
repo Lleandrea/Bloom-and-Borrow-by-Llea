@@ -1,0 +1,143 @@
+/* General body styling */
+body {
+    background-color: #fdd2db;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* ID selector for main heading */
+#main-heading {
+    color: #f78194;
+    text-align: left;
+    font-size: 3em;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+/* Class selector for intro paragraph */
+.intro {
+    color: #5a5a5a;
+    font-size: 1.1em;
+    text-align: center;
+    margin: 30px auto;
+    max-width: 700px;
+    font-style: italic;
+}
+
+/* Hero image styling */
+.hero-image {
+    display: block;
+    margin: 30px auto;
+    border: 1px solid #e8dfd6;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling for all h2 headings */
+h2 {
+    color: #8b7b8b;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+    font-size: 2em;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+/* Collection containers */
+.collection {
+    margin: 40px auto;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+    background-color: #faf7f2;
+    border-radius: 8px;
+}
+
+.collection h3 {
+    color: #9b8b8b;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+
+.collection img {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #e0d5c7;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+.collection p {
+    color: #6b6b6b;
+    font-size: 1em;
+    font-style: italic;
+}
+
+/* Presentation containers */
+.presentation {
+    margin: 40px auto;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f6f1;
+    border-radius: 8px;
+}
+
+.presentation h3 {
+    color: #9b8b8b;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+
+.presentation img {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #e0d5c7;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling for lists */
+ul {
+    max-width: 600px;
+    margin: 30px auto;
+    line-height: 2;
+    color: #6b6b6b;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+/* Contact section */
+#contact {
+    margin-top: 60px;
+    color: #8b7b8b;
+}
+
+.contact-info {
+    text-align: center;
+    color: #6b6b6b;
+    font-size: 1.1em;
+    margin: 20px auto;
+}
+
+.email {
+    text-align: center;
+    color: #7d6b7d;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 20px auto;
+    letter-spacing: 1px;
+}
